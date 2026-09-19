@@ -1,8 +1,8 @@
-# 🇮🇹 義大利 17 天 16 夜秋季獨旅｜V3.0
+# 🇮🇹 義大利 17 天 16 夜秋季獨旅｜V3.1
 
 > 更新日期：2026/09/20  
 > 旅遊日期：2026/09/25～2026/10/11  
-> 義大利境內：9/26 晚上抵達～10/9 晚上離境，14 天 13 夜。 
+> 義大利境內：2026/09/26～2026/10/09  
 > 住宿：13 晚住宿＋3 晚轉機／機上  
 > 路線：台北 → 曼谷 → 阿布達比 → 羅馬 → 拿坡里 → 佛羅倫斯 → 威尼斯／Mestre → 米蘭 → 伊斯坦堡 → 台北  
 > 行程取向：歷史、建築、藝術、古城、美食、城市風景；不安排購物行程  
@@ -76,200 +76,194 @@
 
 # 四、每日行程
 
+> **交通方式欄說明：** 已出票的高鐵、航班、131R、ACTV、一日團等依票券／既有行程填寫；市區內尚未鎖定班次的移動方式為依目前動線整理的建議，當天仍以官方即時資訊與導航為準。
+
 ## 9/25（五）Day 1｜台灣 → 曼谷
 
-| 時間 | 行程 | 交通／備註 |
-|---|---|---|
-| 16:30～17:00 | 抵達桃園機場 T1 | 航空公司建議至少提前 3 小時；19:55 起飛 |
-| 19:55～22:40 | TPE → BKK | Thai Vietjet VZ569 |
-| 22:40～翌日 03:15 | 曼谷轉機 | **行李不直掛**，依實際報到要求領取／重新托運；轉機 4h35 |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 16:30～17:00 | 抵達桃園機場 T1 | 自行前往桃園機場 | 航空公司建議至少提前 3 小時；19:55 起飛 |
+| 19:55～22:40 | TPE → BKK | 飛機｜Thai Vietjet VZ569 | Thai Vietjet VZ569 |
+| 22:40～翌日 03:15 | 曼谷轉機 | 機場內步行／轉機 | **行李不直掛**，依實際報到要求領取／重新托運；轉機 4h35 |
 
 **強度：低｜這天只處理移動。**
 
 ---
-
 ## 9/26（六）Day 2｜曼谷 → 阿布達比 → 羅馬
 
-| 時間 | 行程 | 交通／備註 |
-|---|---|---|
-| 03:15～06:45 | BKK → AUH | Etihad EY401 |
-| 06:45～14:10 | 阿布達比轉機 | 7h25；以機場休息、充電、吃飯為主 |
-| 14:10～18:20 | AUH → FCO T3 | Etihad EY083 |
-| 18:20～19:45 | 入境、領行李 | 不壓時間 |
-| 約 20:00～21:00 | FCO → Roma Termini | 主方案 Leonardo Express |
-| 約 21:00～21:20 | 步行至 Freedom Traveller Hostel、Check-in | Via Gaeta 23 |
-| 21:30 後 | 住宿附近晚餐、休息 | 不排景點 |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 03:15～06:45 | BKK → AUH | 飛機｜Etihad EY401 | Etihad EY401 |
+| 06:45～14:10 | 阿布達比轉機 | 機場內步行／轉機 | 7h25；以機場休息、充電、吃飯為主 |
+| 14:10～18:20 | AUH → FCO T3 | 飛機｜Etihad EY083 | Etihad EY083 |
+| 18:20～19:45 | 入境、領行李 | 機場內步行 | 不壓時間 |
+| 約 20:00～21:00 | FCO → Roma Termini | Leonardo Express | 主方案 Leonardo Express |
+| 約 21:00～21:20 | 步行至 Freedom Traveller Hostel、Check-in | 步行 | Via Gaeta 23 |
+| 21:30 後 | 住宿附近晚餐、休息 | 步行 | 不排景點 |
 
 **強度：低。**
 
 ---
-
 ## 9/27（日）Day 3｜古羅馬核心區
 
 > 固定：**Colosseum Full Experience – Attico 09:30**。  
 > 此票包含競技場一、二層與 Attic、Forum／Palatine 等，但**不含地下層與 Arena**。競技場需提前約 15 分鐘到場。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 08:20～08:40 | 從住宿出發 | Termini → Colosseo |
-| 09:10～09:25 | 抵達競技場、安檢準備 | 不壓線 |
-| 09:30～11:00 | 羅馬競技場＋Attic | 票面建議參觀約 90 分鐘 |
-| 11:10～13:45 | Palatine Hill＋Roman Forum | 同一張 Full Experience 可用 |
-| 14:00～15:00 | Monti 午餐 | 走累了就拉長休息 |
-| 15:00～16:30 | Via dei Fori Imperiali＋Campidoglio | 以戶外步行為主 |
-| 16:30～17:30 | Vittoriano／Piazza Venezia 周邊 | 視體力保留 |
-| 17:30 後 | 回住宿／晚餐 | — |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 08:20～08:40 | 從住宿出發 | Metro B｜Termini → Colosseo | Termini → Colosseo |
+| 09:10～09:25 | 抵達競技場、安檢準備 | 步行 | 不壓線 |
+| 09:30～11:00 | 羅馬競技場＋Attic | 步行 | 票面建議參觀約 90 分鐘 |
+| 11:10～13:45 | Palatine Hill＋Roman Forum | 步行 | 同一張 Full Experience 可用 |
+| 14:00～15:00 | Monti 午餐 | 步行 | 走累了就拉長休息 |
+| 15:00～16:30 | Via dei Fori Imperiali＋Campidoglio | 步行 | 以戶外步行為主 |
+| 16:30～17:30 | Vittoriano／Piazza Venezia 周邊 | 步行 | 視體力保留 |
+| 17:30 後 | 回住宿／晚餐 | 步行＋Metro B／公車 | — |
 
 **備選：Domus Aurea 僅在你另外有票時加入；V3.0 不再預設 15:00 有場次。**
 
 **強度：高。**
 
 ---
-
 ## 9/28（一）Day 4｜聖彼得大教堂＋羅馬歷史中心
 
 > 固定：**Pantheon 14:00–15:00**；Trevi 內圈為 Open Ticket。  
 > 聖彼得大教堂本體免費；圓頂若要上，抓早上現場購票。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 06:45～07:15 | 出發前往梵蒂岡 | 早到能大幅降低排隊 |
-| 07:30～08:45 | 聖彼得大教堂圓頂 | 若當天決定不登頂，直接進教堂 |
-| 08:45～10:00 | 聖彼得大教堂＋廣場 | 安檢時間浮動 |
-| 10:00～10:45 | 早餐／咖啡、移動回歷史中心 | — |
-| 11:15～11:45 | Spanish Steps | — |
-| 12:00～12:40 | Trevi Fountain＋內圈 | Open Ticket，現場人多就縮短 |
-| 12:45～13:35 | 午餐 | 萬神殿附近 |
-| 13:40～13:55 | 抵達 Pantheon | 先找入口 |
-| 14:00～14:45 | Pantheon | 票券時段 14:00–15:00 |
-| 15:00～15:45 | Piazza Navona | — |
-| 16:00～17:00 | Campo de' Fiori／周邊巷弄 | 可依體力刪除 |
-| 17:00 後 | 自由散步、晚餐、回住宿 | — |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 06:45～07:15 | 出發前往梵蒂岡 | Metro A＋步行 | 早到能大幅降低排隊 |
+| 07:30～08:45 | 聖彼得大教堂圓頂 | 步行＋電梯／樓梯 | 若當天決定不登頂，直接進教堂 |
+| 08:45～10:00 | 聖彼得大教堂＋廣場 | 步行 | 安檢時間浮動 |
+| 10:00～10:45 | 早餐／咖啡、移動回歷史中心 | Metro A＋步行 | — |
+| 11:15～11:45 | Spanish Steps | 步行 | — |
+| 12:00～12:40 | Trevi Fountain＋內圈 | 步行 | Open Ticket，現場人多就縮短 |
+| 12:45～13:35 | 午餐 | 步行 | 萬神殿附近 |
+| 13:40～13:55 | 抵達 Pantheon | 步行 | 先找入口 |
+| 14:00～14:45 | Pantheon | 步行 | 票券時段 14:00–15:00 |
+| 15:00～15:45 | Piazza Navona | 步行 | — |
+| 16:00～17:00 | Campo de' Fiori／周邊巷弄 | 步行 | 可依體力刪除 |
+| 17:00 後 | 自由散步、晚餐、回住宿 | 步行＋大眾運輸 | — |
 
 **強度：中高。**
 
 ---
-
 ## 9/29（二）Day 5｜梵蒂岡博物館＋聖天使堡
 
 > 固定：**Vatican Museums 11:00**、票內 Menu Pizza **14:00**、Castel Sant'Angelo **16:30**。  
 > 前一天已看聖彼得，因此今天不要再塞教堂。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 08:30～09:15 | 早餐、慢慢準備 | 保留體力給博物館 |
-| 09:30～10:20 | 前往 Vatican Museums | 入口在 Viale Vaticano |
-| 10:20～10:45 | 排隊／安檢準備 | 帶有效證件 |
-| 11:00～13:45 | Vatican Museums＋Sistine Chapel | 依館內動線，不硬塞全部展廳 |
-| 14:00～14:45 | Menu Pizza | 已含在票券明細 |
-| 14:45～15:40 | 步行／休息前往 Castel Sant'Angelo | 約 20～30 分鐘＋緩衝 |
-| 16:10 | 抵達聖天使堡 | 先找入口 |
-| 16:30～18:00 | Castel Sant'Angelo | — |
-| 18:15～20:30 | Trastevere 晚餐／散步 | 視體力決定要不要過河 |
-| 20:30 後 | 回住宿、整理明早行李 | 9/30 早起 |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 08:30～09:15 | 早餐、慢慢準備 | — | 保留體力給博物館 |
+| 09:30～10:20 | 前往 Vatican Museums | Metro A＋步行 | 入口在 Viale Vaticano |
+| 10:20～10:45 | 排隊／安檢準備 | 步行 | 帶有效證件 |
+| 11:00～13:45 | Vatican Museums＋Sistine Chapel | 步行 | 依館內動線，不硬塞全部展廳 |
+| 14:00～14:45 | Menu Pizza | 步行 | 已含在票券明細 |
+| 14:45～15:40 | 步行／休息前往 Castel Sant'Angelo | 步行 | 約 20～30 分鐘＋緩衝 |
+| 16:10 | 抵達聖天使堡 | 步行 | 先找入口 |
+| 16:30～18:00 | Castel Sant'Angelo | 步行 | — |
+| 18:15～20:30 | Trastevere 晚餐／散步 | 步行／公車 | 視體力決定要不要過河 |
+| 20:30 後 | 回住宿、整理明早行李 | 公車／Metro＋步行 | 9/30 早起 |
 
 **強度：中高。**
 
 ---
-
 ## 9/30（三）Day 6｜羅馬 → 拿坡里 → 龐貝＋維蘇威火山
 
 > 固定：**07:00 高鐵、11:30 Klook 團**。  
 > 一日團集合：**Main entrance of Pompeii Ruins – Porta Marina Superiore**。  
 > 團本身已含龐貝、維蘇威火山、導遊與兩地間交通；不要再另外拆交通／門票。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 05:50～06:15 | 起床、退房 | Rome hostel 10:00 前退房；直接提前退 |
-| 06:15～06:35 | 步行至 Roma Termini | 建議 06:35 前到月台區 |
-| 07:00～08:12 | Roma Termini → Napoli Centrale | Frecciarossa 9501 |
-| 08:15～08:35 | 走到 Hotel Eden、寄放行李 | 飯店在 Centrale 附近；不預設能提前拿房 |
-| 08:35～09:00 | 早餐／買水與簡單食物 | 山上用得到 |
-| 約 09:10～10:10 | Napoli Garibaldi → Pompei Scavi – Villa dei Misteri | Circumvesuviana；預留等車、轉層 |
-| 10:10～10:30 | 找 Porta Marina Superiore 集合點 | 與車站很近，但仍保留找路時間 |
-| 10:30～11:15 | 周邊休息、廁所、補水 | 早到比趕車好 |
-| 11:15 | 到集合點待命 | 至少提前 15 分鐘 |
-| 11:30～約 19:30 | Pompeii & Mount Vesuvius Full-Day Tour | 龐貝約 2h＋接駁＋維蘇威約 2h；實際依團務／天候 |
-| 約 19:30～20:30 | Pompei → Napoli | Circumvesuviana |
-| 約 20:30～21:00 | Hotel Eden Check-in | **建議出發前先告知飯店可能 20:30 後入住** |
-| 21:00 後 | 拿坡里晚餐 | 以住宿附近為主，不再跨城走 |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 05:50～06:15 | 起床、退房 | 步行 | Rome hostel 10:00 前退房；直接提前退 |
+| 06:15～06:35 | 步行至 Roma Termini | 步行 | 建議 06:35 前到月台區 |
+| 07:00～08:12 | Roma Termini → Napoli Centrale | 高鐵｜Frecciarossa 9501 | Frecciarossa 9501 |
+| 08:15～08:35 | 走到 Hotel Eden、寄放行李 | 步行 | 飯店在 Centrale 附近；不預設能提前拿房 |
+| 08:35～09:00 | 早餐／買水與簡單食物 | 步行 | 山上用得到 |
+| 約 09:10～10:10 | Napoli Garibaldi → Pompei Scavi – Villa dei Misteri | Circumvesuviana | Circumvesuviana；預留等車、轉層 |
+| 10:10～10:30 | 找 Porta Marina Superiore 集合點 | 步行 | 與車站很近，但仍保留找路時間 |
+| 10:30～11:15 | 周邊休息、廁所、補水 | 步行 | 早到比趕車好 |
+| 11:15 | 到集合點待命 | 步行 | 至少提前 15 分鐘 |
+| 11:30～約 19:30 | Pompeii & Mount Vesuvius Full-Day Tour | 一日團巴士／Minibus＋步行 | 龐貝約 2h＋接駁＋維蘇威約 2h；實際依團務／天候 |
+| 約 19:30～20:30 | Pompei → Napoli | Circumvesuviana | Circumvesuviana |
+| 約 20:30～21:00 | Hotel Eden Check-in | 步行 | **建議出發前先告知飯店可能 20:30 後入住** |
+| 21:00 後 | 拿坡里晚餐 | 步行 | 以住宿附近為主，不再跨城走 |
 
 **強度：高。**
 
 ---
-
 ## 10/1（四）Day 7｜拿坡里半日 → 佛羅倫斯
 
 > 固定：**Sansevero 09:00、Napoli Sotterranea 12:00、Italo 17:45**。  
 > Hotel Eden 10:00 前退房，所以**先退房寄行李，再去 Sansevero**。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 07:30～08:10 | 早餐、退房、寄放行李 | 不帶大行李進舊城 |
-| 08:10～08:45 | 前往 Cappella Sansevero | 計程車或 Metro＋步行 |
-| 08:50 | 抵達入口 | 票只保留到 09:10，不能遲到 |
-| 09:00～09:45 | Cappella Sansevero | — |
-| 09:45～11:25 | Spaccanapoli／San Gregorio Armeno／舊城散步 | 都在地下城周邊，動線順 |
-| 11:30～11:45 | 前往 Piazza San Gaetano 69 | 地下城要求至少提前 15 分鐘 |
-| 12:00～約 13:30 | Napoli Sotterranea 英文團 | — |
-| 13:30～14:30 | 拿坡里午餐 | Centro Storico |
-| 14:30～15:50 | Via Toledo／Quartieri Spagnoli 快逛 | 不再往更遠的海邊走 |
-| 15:50～16:30 | 返回 Hotel Eden、取行李 | — |
-| 16:30～17:10 | 進 Napoli Centrale、找月台 | 預留 30 分鐘以上 |
-| 17:45～20:57 | Napoli Centrale → Firenze SMN | Italo 8968 |
-| 21:00～21:25 | Firenze SMN → YellowSquare Florence | 主方案 T2／計程車；住宿在 Viale Redi，不在舊城正中心 |
-| 約 21:25 | Check-in | 已超過正式入住時間，可正常辦理 |
-| 21:30 後 | 附近簡單晚餐／休息 | — |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 07:30～08:10 | 早餐、退房、寄放行李 | 步行 | 不帶大行李進舊城 |
+| 08:10～08:45 | 前往 Cappella Sansevero | 計程車／Metro＋步行 | 計程車或 Metro＋步行 |
+| 08:50 | 抵達入口 | 步行 | 票只保留到 09:10，不能遲到 |
+| 09:00～09:45 | Cappella Sansevero | 步行 | — |
+| 09:45～11:25 | Spaccanapoli／San Gregorio Armeno／舊城散步 | 步行 | 都在地下城周邊，動線順 |
+| 11:30～11:45 | 前往 Piazza San Gaetano 69 | 步行 | 地下城要求至少提前 15 分鐘 |
+| 12:00～約 13:30 | Napoli Sotterranea 英文團 | 步行 | — |
+| 13:30～14:30 | 拿坡里午餐 | 步行 | Centro Storico |
+| 14:30～15:50 | Via Toledo／Quartieri Spagnoli 快逛 | 步行 | 不再往更遠的海邊走 |
+| 15:50～16:30 | 返回 Hotel Eden、取行李 | Metro／計程車＋步行 | — |
+| 16:30～17:10 | 進 Napoli Centrale、找月台 | 步行 | 預留 30 分鐘以上 |
+| 17:45～20:57 | Napoli Centrale → Firenze SMN | 高鐵｜Italo 8968 | Italo 8968 |
+| 21:00～21:25 | Firenze SMN → YellowSquare Florence | T2 電車／計程車＋步行 | 主方案 T2／計程車；住宿在 Viale Redi，不在舊城正中心 |
+| 約 21:25 | Check-in | 步行 | 已超過正式入住時間，可正常辦理 |
+| 21:30 後 | 附近簡單晚餐／休息 | 步行 | — |
 
 **強度：中高。**
 
 ---
-
 ## 10/2（五）Day 8｜烏菲茲＋Oltrarno＋米開朗基羅廣場
 
 > 固定：**Uffizi 09:00**。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 08:00～08:20 | 從 YellowSquare 出發 | T2／步行銜接舊城 |
-| 08:40 | 抵達 Uffizi | 驗票、安檢 |
-| 09:00～12:00 | Uffizi Galleries | 約 3 小時，保留給重點作品 |
-| 12:10～13:10 | 午餐 | Signoria／Oltrarno 一帶 |
-| 13:15～14:00 | Piazza della Signoria＋Loggia dei Lanzi | 戶外 |
-| 14:00～14:30 | Ponte Vecchio | — |
-| 14:30～16:30 | Oltrarno／Santo Spirito 自由散步 | 不塞更多博物館 |
-| 16:30～17:00 | 咖啡／休息 | — |
-| 17:00～17:40 | 上 Piazzale Michelangelo | 建議搭公車／計程車上山 |
-| 17:40～19:00 | 米開朗基羅廣場夕景 | 依當天天候 |
-| 19:00 後 | 下山、晚餐 | — |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 08:00～08:20 | 從 YellowSquare 出發 | T2 電車＋步行 | T2／步行銜接舊城 |
+| 08:40 | 抵達 Uffizi | 步行 | 驗票、安檢 |
+| 09:00～12:00 | Uffizi Galleries | 步行 | 約 3 小時，保留給重點作品 |
+| 12:10～13:10 | 午餐 | 步行 | Signoria／Oltrarno 一帶 |
+| 13:15～14:00 | Piazza della Signoria＋Loggia dei Lanzi | 步行 | 戶外 |
+| 14:00～14:30 | Ponte Vecchio | 步行 | — |
+| 14:30～16:30 | Oltrarno／Santo Spirito 自由散步 | 步行 | 不塞更多博物館 |
+| 16:30～17:00 | 咖啡／休息 | 步行 | — |
+| 17:00～17:40 | 上 Piazzale Michelangelo | 公車／計程車 | 建議搭公車／計程車上山 |
+| 17:40～19:00 | 米開朗基羅廣場夕景 | 步行 | 依當天天候 |
+| 19:00 後 | 下山、晚餐 | 公車／步行 | — |
 
 **強度：中高。**
 
 ---
-
 ## 10/3（六）Day 9｜佛羅倫斯 ↔ 西恩納
 
 > 固定：**Siena Cathedral / Porta del Cielo All Inclusive 12:00**。  
 > 131R 班表為 2026/09/15 起生效的冬季班表。  
 > **主方案：09:10 Firenze Autostazione → 10:25 Siena Via Tozzi；17:50 → 19:05 回 Firenze。**
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 08:10～08:25 | YellowSquare 出發 | 搭 T2 往 SMN／Autostazione 方向 |
-| 08:40～08:50 | 抵達 Firenze Autostazione | 09:10 班次仍從 Autostazione 發，不受 Orti Oricellari 部分班次移站影響 |
-| 09:10～10:25 | 131R Firenze → Siena Via Tozzi | 快車 |
-| 10:25～10:40 | 步行進舊城 | Siena 有坡，別抓太緊 |
-| 10:40～11:20 | Piazza del Campo | 先看廣場、確認回程方向 |
-| 11:20～11:40 | 前往 Duomo、找入口 | — |
-| 11:40～11:55 | 入場準備 | 12:00 指定時段 |
-| 12:00～14:30 | Siena Cathedral＋Porta del Cielo＋Piccolomini Library 等 | All Inclusive，這段不壓縮 |
-| 14:30～15:30 | 午餐 | 舊城內 |
-| 15:30～16:40 | Museo dell'Opera／Facciatone／Crypt／Baptistry 擇重點 | 不要求全部走完 |
-| 16:00～16:45 | **備選：Torre del Mangia** | 若決定登塔，就用它取代一部分博物館時間，不要兩邊都硬塞 |
-| 16:50～17:20 | 回 Piazza del Campo／往 Via Tozzi 方向 | 開始往車站移動 |
-| 17:20～17:35 | 抵達 Siena Via Tozzi | 保留找站牌／排隊 |
-| **17:50～19:05** | **131R Siena → Firenze** | 主回程 |
-| 約 19:30 | 回 YellowSquare／晚餐 | — |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 08:10～08:25 | YellowSquare 出發 | T2 電車＋步行 | 搭 T2 往 SMN／Autostazione 方向 |
+| 08:40～08:50 | 抵達 Firenze Autostazione | 步行 | 09:10 班次仍從 Autostazione 發，不受 Orti Oricellari 部分班次移站影響 |
+| 09:10～10:25 | 131R Firenze → Siena Via Tozzi | 區域巴士｜131R | 快車 |
+| 10:25～10:40 | 步行進舊城 | 步行 | Siena 有坡，別抓太緊 |
+| 10:40～11:20 | Piazza del Campo | 步行 | 先看廣場、確認回程方向 |
+| 11:20～11:40 | 前往 Duomo、找入口 | 步行 | — |
+| 11:40～11:55 | 入場準備 | 步行 | 12:00 指定時段 |
+| 12:00～14:30 | Siena Cathedral＋Porta del Cielo＋Piccolomini Library 等 | 步行 | All Inclusive，這段不壓縮 |
+| 14:30～15:30 | 午餐 | 步行 | 舊城內 |
+| 15:30～16:40 | Museo dell'Opera／Facciatone／Crypt／Baptistry 擇重點 | 步行 | 不要求全部走完 |
+| 16:00～16:45 | **備選：Torre del Mangia** | 步行 | 若決定登塔，就用它取代一部分博物館時間，不要兩邊都硬塞 |
+| 16:50～17:20 | 回 Piazza del Campo／往 Via Tozzi 方向 | 步行 | 開始往車站移動 |
+| 17:20～17:35 | 抵達 Siena Via Tozzi | 步行 | 保留找站牌／排隊 |
+| **17:50～19:05** | **131R Siena → Firenze** | 區域巴士｜131R | 主回程 |
+| 約 19:30 | 回 YellowSquare／晚餐 | T2 電車＋步行 | — |
 
 ### 10/3 巴士備案
 
@@ -281,155 +275,149 @@
 **強度：中高。**
 
 ---
-
 ## 10/4（日）Day 10｜比薩半日＋佛羅倫斯下午
 
 > 固定：**Pisa Tower 10:00**。  
 > 票面提醒：遲到不退費、斜塔參觀約 30 分鐘、上塔 251 階；包包需依規定寄放。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 07:20～07:40 | YellowSquare → Firenze SMN | — |
-| 約 08:00～09:00 | Firenze → Pisa Centrale | 區域火車，不必提早鎖死班次 |
-| 09:00～09:25 | Pisa Centrale → Piazza dei Miracoli | 公車／計程車／步行依當天狀況 |
-| 09:25～09:40 | 寄物、找入口 | 至少提前 20～30 分鐘 |
-| 10:00～10:30 | Leaning Tower of Pisa | 固定時段 |
-| 10:30～12:30 | Cathedral＋Baptistry＋Camposanto＋Opera del Duomo Museum | 套票內依興趣取捨 |
-| 12:30～13:15 | 午餐 | 不排太久 |
-| 約 13:30～14:45 | Pisa → Firenze | 區域火車 |
-| 15:00～15:30 | 回舊城／咖啡 | — |
-| 15:30～17:00 | **備選：Museo Galileo** | 尚未提供已購票券；想去可排這時段 |
-| 17:10～18:00 | Duomo 廣場外觀／Signoria | 補佛羅倫斯市中心 |
-| 18:00～19:00 | Ponte Vecchio／河岸黃昏 | 若 10/2 已逛夠就直接吃飯 |
-| 19:00 後 | 晚餐、回住宿、整理行李 | 10/5 早上搭高鐵 |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 07:20～07:40 | YellowSquare → Firenze SMN | T2 電車＋步行 | — |
+| 約 08:00～09:00 | Firenze → Pisa Centrale | 區域火車｜Trenitalia | 區域火車，不必提早鎖死班次 |
+| 09:00～09:25 | Pisa Centrale → Piazza dei Miracoli | 公車／計程車／步行 | 公車／計程車／步行依當天狀況 |
+| 09:25～09:40 | 寄物、找入口 | 步行 | 至少提前 20～30 分鐘 |
+| 10:00～10:30 | Leaning Tower of Pisa | 步行＋樓梯 | 固定時段 |
+| 10:30～12:30 | Cathedral＋Baptistry＋Camposanto＋Opera del Duomo Museum | 步行 | 套票內依興趣取捨 |
+| 12:30～13:15 | 午餐 | 步行 | 不排太久 |
+| 約 13:30～14:45 | Pisa → Firenze | 區域火車｜Trenitalia | 區域火車 |
+| 15:00～15:30 | 回舊城／咖啡 | T2 電車／步行 | — |
+| 15:30～17:00 | **備選：Museo Galileo** | 步行 | 尚未提供已購票券；想去可排這時段 |
+| 17:10～18:00 | Duomo 廣場外觀／Signoria | 步行 | 補佛羅倫斯市中心 |
+| 18:00～19:00 | Ponte Vecchio／河岸黃昏 | 步行 | 若 10/2 已逛夠就直接吃飯 |
+| 19:00 後 | 晚餐、回住宿、整理行李 | T2 電車＋步行 | 10/5 早上搭高鐵 |
 
 **強度：中。**
 
 ---
-
 ## 10/5（一）Day 11｜佛羅倫斯 → Mestre／威尼斯＋聖馬可鐘樓
 
 > 固定：**08:39 Firenze SMN → 10:42 Venezia Mestre**；**Bell Tower 18:00–18:30**。  
 > Anda Venice Hostel 就在 Mestre，不需先拖行李進威尼斯本島。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 07:10～07:35 | 退房、YellowSquare → Firenze SMN | 飯店原本 10:00 前退房，但今天提前走 |
-| 08:00 | 抵達 SMN | 找月台 |
-| 08:39～10:42 | Firenze SMN → Venezia Mestre | Italo 8924 |
-| 10:45～11:05 | 步行到 Anda、寄放行李 | 若住宿當下不收行李，改用 Mestre 車站寄物 |
-| 11:05～11:20 | 兌換 ACTV 72h | **先把 voucher 在 ACTV 自動售票機換成交通票** |
-| 約 11:20 | ACTV 72h 第一次啟用 | 從首次驗票起算 72 小時；可覆蓋到 10/8 早上 |
-| 11:20～12:00 | Mestre → Venezia Piazzale Roma | ACTV bus 2；已由 72h 票涵蓋 |
-| 12:00～12:45 | Vaporetto 前往 San Marco／San Zaccaria | 依現場班次選 1 號或其他適合路線 |
-| 12:45～14:00 | 午餐 | San Marco 周邊不要硬排名店 |
-| 14:00～16:30 | San Marco 廣場＋Riva degli Schiavoni＋周邊巷弄 | 第一天以認路為主 |
-| 16:30～17:30 | 咖啡／找鐘樓入口／等待黃昏 | — |
-| **17:50** | **到 St. Mark's Bell Tower 入口** | 票只允許約提前／延後 5 分鐘，不能壓線 |
-| **18:00～約 18:40** | **聖馬可鐘樓** | 電梯上下，建議停留 30～40 分鐘 |
-| 18:40～19:30 | San Marco 黃昏／夜景 | — |
-| 19:30～20:30 | 晚餐 | — |
-| 20:30～21:30 | Vaporetto／bus 回 Mestre | — |
-| 21:30 後 | Anda 正式 Check-in | 最晚 00:00 前 |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 07:10～07:35 | 退房、YellowSquare → Firenze SMN | T2 電車＋步行 | 飯店原本 10:00 前退房，但今天提前走 |
+| 08:00 | 抵達 SMN | 步行 | 找月台 |
+| 08:39～10:42 | Firenze SMN → Venezia Mestre | 高鐵｜Italo 8924 | Italo 8924 |
+| 10:45～11:05 | 步行到 Anda、寄放行李 | 步行 | 若住宿當下不收行李，改用 Mestre 車站寄物 |
+| 11:05～11:20 | 兌換 ACTV 72h | 步行 | **先把 voucher 在 ACTV 自動售票機換成交通票** |
+| 約 11:20 | ACTV 72h 第一次啟用 | 步行 | 從首次驗票起算 72 小時；可覆蓋到 10/8 早上 |
+| 11:20～12:00 | Mestre → Venezia Piazzale Roma | ACTV Bus 2 | ACTV bus 2；已由 72h 票涵蓋 |
+| 12:00～12:45 | Vaporetto 前往 San Marco／San Zaccaria | ACTV Vaporetto | 依現場班次選 1 號或其他適合路線 |
+| 12:45～14:00 | 午餐 | 步行 | San Marco 周邊不要硬排名店 |
+| 14:00～16:30 | San Marco 廣場＋Riva degli Schiavoni＋周邊巷弄 | 步行 | 第一天以認路為主 |
+| 16:30～17:30 | 咖啡／找鐘樓入口／等待黃昏 | 步行 | — |
+| **17:50** | **到 St. Mark's Bell Tower 入口** | 步行 | 票只允許約提前／延後 5 分鐘，不能壓線 |
+| **18:00～約 18:40** | **聖馬可鐘樓** | 電梯 | 電梯上下，建議停留 30～40 分鐘 |
+| 18:40～19:30 | San Marco 黃昏／夜景 | 步行 | — |
+| 19:30～20:30 | 晚餐 | 步行 | — |
+| 20:30～21:30 | Vaporetto／bus 回 Mestre | Vaporetto＋ACTV Bus 2 | — |
+| 21:30 後 | Anda 正式 Check-in | 步行 | 最晚 00:00 前 |
 
 **ACTV 72h 包含：Vaporetto、Mestre/Marghera ACTV bus、tram、People Mover；不含 Marco Polo 機場線、Alilaguna、ATVO。**
 
 **強度：中。**
 
 ---
-
 ## 10/6（二）Day 12｜聖馬可大教堂＋總督宮／Dorsoduro
 
 > 固定：**Basilica S. Marco 09:30–10:00 入場時段**。  
 > 票含 Basilica、Pala d'Oro、Museum、Loggia dei Cavalli；Bell Tower 已於前一天完成。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 07:40～08:00 | Anda 出發 | Bus 2 → Piazzale Roma，再轉 Vaporetto |
-| 09:00～09:15 | 抵達 San Marco | 票允許約 ±15 分鐘，但仍以準時為主 |
-| 09:30～11:00 | Basilica＋Pala d'Oro＋Museum＋Loggia | 肩膀與膝蓋需遮住；大包／行李受限制 |
-| 11:15～13:15 | **Doge's Palace（若尚未買票，這項仍屬待購）** | 若不去，改成 Correr Museum／San Marco 周邊 |
-| 13:15～14:15 | 午餐 | — |
-| 14:15～15:00 | Vaporetto／步行前往 Dorsoduro | — |
-| 15:00～17:30 | Accademia 周邊＋Santa Maria della Salute＋Dorsoduro | 以街區與水岸為主 |
-| 17:30～18:30 | Zattere／運河黃昏 | — |
-| 18:30 後 | 晚餐、回 Mestre | — |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 07:40～08:00 | Anda 出發 | ACTV Bus 2＋Vaporetto | Bus 2 → Piazzale Roma，再轉 Vaporetto |
+| 09:00～09:15 | 抵達 San Marco | 步行 | 票允許約 ±15 分鐘，但仍以準時為主 |
+| 09:30～11:00 | Basilica＋Pala d'Oro＋Museum＋Loggia | 步行 | 肩膀與膝蓋需遮住；大包／行李受限制 |
+| 11:15～13:15 | **Doge's Palace（若尚未買票，這項仍屬待購）** | 步行 | 若不去，改成 Correr Museum／San Marco 周邊 |
+| 13:15～14:15 | 午餐 | 步行 | — |
+| 14:15～15:00 | Vaporetto／步行前往 Dorsoduro | Vaporetto／步行 | — |
+| 15:00～17:30 | Accademia 周邊＋Santa Maria della Salute＋Dorsoduro | 步行 | 以街區與水岸為主 |
+| 17:30～18:30 | Zattere／運河黃昏 | 步行 | — |
+| 18:30 後 | 晚餐、回 Mestre | 步行＋Vaporetto＋ACTV Bus 2 | — |
 
 **強度：中高。**
 
 ---
-
 ## 10/7（三）Day 13｜多洛米蒂山脈一日遊
 
 > 固定：**08:00 出發**，集合點 **EDDY Fast Food, Tronchetto Isola Nova**。  
 > 供應商要求至少提前 15 分鐘；本行程採你想要的安全值，**07:30 前到**。  
 > People Mover 4～10 月平日 07:00 開始營運，因此早上不要拖。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| **06:20～06:30** | **離開 Anda** | 比必要時間再多留一點容錯 |
-| 約 06:30～06:55 | Mestre FS → Venezia / Piazzale Roma | ACTV bus 2；前晚再確認首班／即時資訊 |
-| 07:00～07:10 | People Mover｜Piazzale Roma → Tronchetto | ACTV 72h 可用；若當天異常，立刻改計程車／替代接駁 |
-| 07:10～07:20 | 步行至 EDDY Fast Food | 找工作人員與集合點 |
-| **07:20～07:30** | **抵達、報到** | 08:00 團絕對不要遲到 |
-| 08:00～約 09:30 | 巴士北上 | — |
-| 約 09:30～10:00 | Longarone 早餐／休息站 | 餐食自理 |
-| 約 10:50～11:50 | Cortina d'Ampezzo | 約 1h 自由活動 |
-| 約 12:20～14:20 | Lake Misurina | 約 2h；主要午餐站 |
-| 約 14:50～15:20 | Lake Auronzo | 約 30m |
-| 下午 | 起司店／休息站 | 約 30m |
-| 約 18:00～18:30 | 返回 EDDY Fast Food | 天候、交通可能影響 |
-| 18:30～19:30 | 回 Mestre | People Mover／bus 2 |
-| 19:30 後 | 晚餐、整理明早行李 | — |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| **06:20～06:30** | **離開 Anda** | 步行 | 比必要時間再多留一點容錯 |
+| 約 06:30～06:55 | Mestre FS → Venezia / Piazzale Roma | ACTV Bus 2 | ACTV bus 2；前晚再確認首班／即時資訊 |
+| 07:00～07:10 | People Mover｜Piazzale Roma → Tronchetto | People Mover | ACTV 72h 可用；若當天異常，立刻改計程車／替代接駁 |
+| 07:10～07:20 | 步行至 EDDY Fast Food | 步行 | 找工作人員與集合點 |
+| **07:20～07:30** | **抵達、報到** | 步行 | 08:00 團絕對不要遲到 |
+| 08:00～約 09:30 | 巴士北上 | 一日團巴士 | — |
+| 約 09:30～10:00 | Longarone 早餐／休息站 | 一日團巴士＋步行 | 餐食自理 |
+| 約 10:50～11:50 | Cortina d'Ampezzo | 步行 | 約 1h 自由活動 |
+| 約 12:20～14:20 | Lake Misurina | 步行 | 約 2h；主要午餐站 |
+| 約 14:50～15:20 | Lake Auronzo | 步行 | 約 30m |
+| 下午 | 起司店／休息站 | 步行 | 約 30m |
+| 約 18:00～18:30 | 返回 EDDY Fast Food | 一日團巴士 | 天候、交通可能影響 |
+| 18:30～19:30 | 回 Mestre | People Mover＋ACTV Bus 2 | People Mover／bus 2 |
+| 19:30 後 | 晚餐、整理明早行李 | 步行 | — |
 
 **強度：中；巴士時間長，實際步行不一定高。**
 
 ---
-
 ## 10/8（四）Day 14｜Mestre → 米蘭＋Duomo
 
 > 固定：**09:09 Venezia Mestre → 11:25 Milano Centrale**；**Duomo Fast-Track 14:30**。  
 > 14:30 是**屋頂露台**入場時間，其他區域可在前後參觀。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 07:15～08:00 | 起床、退房 | Anda 10:00 前退房 |
-| 08:15～08:25 | 步行至 Venezia Mestre | Anda 距車站很近 |
-| 08:40 | 抵達月台區 | — |
-| 09:09～11:25 | Venezia Mestre → Milano Centrale | Italo 8971 |
-| 11:25～12:05 | 前往 Ostelzzz、寄放行李 | 15:00 後才能正式 Check-in；若不能寄放，用 Centrale 寄物 |
-| 12:05～13:10 | 午餐 | 往 Duomo 方向移動 |
-| 13:10～14:00 | Piazza del Duomo／Galleria Vittorio Emanuele II 外觀 | 不購物，只看建築 |
-| **14:10** | **Gate 3 Green 報到** | 提前到 |
-| **14:30～15:30** | **Duomo Rooftops** | Fast Track；下樓一律走樓梯 |
-| 15:30～16:30 | Cathedral | 服裝需合宜 |
-| 16:30～17:45 | Archaeological Area／Museum 等 | 依票種包含區域取捨 |
-| 17:45～18:30 | Duomo 廣場黃昏 | — |
-| 18:30～19:15 | 回 Ostelzzz、正式 Check-in | — |
-| 19:15 後 | 晚餐 | — |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 07:15～08:00 | 起床、退房 | 步行 | Anda 10:00 前退房 |
+| 08:15～08:25 | 步行至 Venezia Mestre | 步行 | Anda 距車站很近 |
+| 08:40 | 抵達月台區 | 步行 | — |
+| 09:09～11:25 | Venezia Mestre → Milano Centrale | 高鐵｜Italo 8971 | Italo 8971 |
+| 11:25～12:05 | 前往 Ostelzzz、寄放行李 | 步行／Metro＋步行 | 15:00 後才能正式 Check-in；若不能寄放，用 Centrale 寄物 |
+| 12:05～13:10 | 午餐 | Metro M1＋步行 | 往 Duomo 方向移動 |
+| 13:10～14:00 | Piazza del Duomo／Galleria Vittorio Emanuele II 外觀 | 步行 | 不購物，只看建築 |
+| **14:10** | **Gate 3 Green 報到** | 步行 | 提前到 |
+| **14:30～15:30** | **Duomo Rooftops** | 電梯上樓＋樓梯下樓 | Fast Track；下樓一律走樓梯 |
+| 15:30～16:30 | Cathedral | 步行 | 服裝需合宜 |
+| 16:30～17:45 | Archaeological Area／Museum 等 | 步行 | 依票種包含區域取捨 |
+| 17:45～18:30 | Duomo 廣場黃昏 | 步行 | — |
+| 18:30～19:15 | 回 Ostelzzz、正式 Check-in | Metro M1＋步行 | — |
+| 19:15 後 | 晚餐 | 步行 | — |
 
 **強度：中。**
 
 ---
-
 ## 10/9（五）Day 15｜米蘭半日 → MXP → 伊斯坦堡
 
 > 固定：**TK1876 19:45 MXP T1 起飛**。  
 > 航空公司建議至少提前 3 小時抵達，因此最晚目標 **16:45 前**進機場；V3.0 主方案抓 **約 15:46** 抵達。
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 07:30～08:30 | Ostelzzz 早餐 | 已含早餐 |
-| 08:30～09:30 | 整理、Check-out | 最晚 11:00；可先寄放行李 |
-| 09:45～11:15 | Porta Venezia／Brera 輕鬆散步 | 不排需要長時間安檢的博物館 |
-| 11:15～12:45 | Castello Sforzesco 外觀／Brera 擇一＋午餐 | 不要兩邊都硬塞 |
-| 12:45～13:30 | 回住宿取行李 | — |
-| 13:30～14:10 | 前往 Milano Centrale | 留月台／買票時間 |
-| **14:55～約 15:46** | **Malpensa Express → MXP T1** | 官方目前為每小時 :25、:55 由 Centrale 出發，約 51 分鐘；當天再確認 |
-| **約 15:46** | **抵達 MXP T1** | 比航空公司建議的 16:45 再早約 1 小時 |
-| 15:46～18:45 | 報到、托運、安檢、出境、吃飯 | 不壓時間 |
-| **19:45～23:40** | **MXP → IST｜TK1876** | 行李可直掛台北 |
-| 23:40 後 | 伊斯坦堡機場轉機 | 16h10；主方案留在機場休息 |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 07:30～08:30 | Ostelzzz 早餐 | 步行 | 已含早餐 |
+| 08:30～09:30 | 整理、Check-out | 步行 | 最晚 11:00；可先寄放行李 |
+| 09:45～11:15 | Porta Venezia／Brera 輕鬆散步 | 步行／Metro | 不排需要長時間安檢的博物館 |
+| 11:15～12:45 | Castello Sforzesco 外觀／Brera 擇一＋午餐 | 步行／Metro | 不要兩邊都硬塞 |
+| 12:45～13:30 | 回住宿取行李 | 步行／Metro | — |
+| 13:30～14:10 | 前往 Milano Centrale | 步行／Metro | 留月台／買票時間 |
+| **14:55～約 15:46** | **Malpensa Express → MXP T1** | Malpensa Express | 官方目前為每小時 :25、:55 由 Centrale 出發，約 51 分鐘；當天再確認 |
+| **約 15:46** | **抵達 MXP T1** | 機場內步行 | 比航空公司建議的 16:45 再早約 1 小時 |
+| 15:46～18:45 | 報到、托運、安檢、出境、吃飯 | 機場內步行 | 不壓時間 |
+| **19:45～23:40** | **MXP → IST｜TK1876** | 飛機｜Turkish Airlines TK1876 | 行李可直掛台北 |
+| 23:40 後 | 伊斯坦堡機場轉機 | 機場內步行／轉機 | 16h10；主方案留在機場休息 |
 
 ### Malpensa Express 備案
 
@@ -438,26 +426,24 @@
 **強度：中。**
 
 ---
-
 ## 10/10（六）Day 16｜伊斯坦堡轉機 → 台北
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| 00:00～中午 | IST 機場休息 | 不預設入境土耳其；睡眠、吃飯、充電為主 |
-| 13:00 左右 | 回到登機區附近 | 即使人在機場也不要拖到最後 |
-| **15:50** | **IST → TPE｜TK124** | 行李已從米蘭直掛 |
-| 夜間 | 機上 | — |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| 00:00～中午 | IST 機場休息 | 機場內步行 | 不預設入境土耳其；睡眠、吃飯、充電為主 |
+| 13:00 左右 | 回到登機區附近 | 機場內步行 | 即使人在機場也不要拖到最後 |
+| **15:50** | **IST → TPE｜TK124** | 飛機｜Turkish Airlines TK124 | 行李已從米蘭直掛 |
+| 夜間 | 機上 | 飛機 | — |
 
 **強度：低。**
 
 ---
-
 ## 10/11（日）Day 17｜抵達台灣
 
-| 時間 | 行程 | 備註 |
-|---|---|---|
-| **08:05** | **抵達 TPE T2** | 領行李、入境 |
-| 上午 | 回家 | 行程結束 |
+| 時間 | 行程 | 交通方式 | 備註 |
+|---|---|---|---|
+| **08:05** | **抵達 TPE T2** | 機場內步行 | 領行李、入境 |
+| 上午 | 回家 | 機場捷運／客運／接送 | 行程結束 |
 
 ---
 
